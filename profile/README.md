@@ -1,1 +1,1 @@
-# The Keybo Collective
+![Keybo Collective](./name.min.svg)
