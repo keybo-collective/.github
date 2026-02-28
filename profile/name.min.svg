@@ -8,12 +8,6 @@
     .R { fill: red; }
     .B { fill: #111; }
     .T { fill: #7b6f64; }
-    @media (prefers-color-scheme: light) {
-        .T { fill: #111; }
-    }
-    @media (prefers-color-scheme: dark) {
-        .T { fill: #EEE; }
-    }
 </style>
 <g transform="translate(0 -45)" fill="none" fill-rule="nonzero">
     <use class="T" href="#A"/>
